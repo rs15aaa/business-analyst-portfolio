@@ -1,4 +1,4 @@
-# business-analyst-portfolio
+# Business-analyst-portfolio
 BA Portfolio Sample
 
 # Customer Support Dashboard Analysis
