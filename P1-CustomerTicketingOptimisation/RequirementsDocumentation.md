@@ -66,4 +66,11 @@ Please refer to [Stakeholder Analysis](StakeholderAnalysis.md)
 - Must use existing ticketing system capabilities
 - Limited IT resources for implementation
 
-
+## Requirements Traceability Matrix
+| Problem (ProblemStatement.md)  | Related Requirement(s) |
+|-----|-------------------------|
+|SLA breaches (30% to 40% of tickets | FR2, NFR1|
+|Repetitive, low priority ticket consuming agent's time| FR1, FR6|
+|Manager unable to track KPI and recurring issues| FR3, FR5|
+|Negative customer feedback due to long response times| FR2, FR3, NFR4|
+|High workload and risk of burnout amongst the agents| FR1, FR4|
