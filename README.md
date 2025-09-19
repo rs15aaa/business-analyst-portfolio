@@ -1,20 +1,19 @@
 # Business-analyst-portfolio
-BA Portfolio Sample
 
 # Customer Support Dashboard Analysis
 
 ## Overview
-As part of a business improvement initiative, this project analyses support ticket data to identify key pain points, improve response times, and enhance customer satisfaction.
+This project analyzes customer support ticket data to identify recurring issues, measure resolution times, and provide insights into performance. The findings support process improvements aimed at reducing SLA breaches and increasing customer satisfaction.
 
 ## Objectives
-- Identify frequent ticket issues
-- Calculate average resolution times by category
+- Identify top 5 ticket categories by volume
+- Calculate average resolution time per category
 - Visualize KPIs in a Power BI dashboard
-- Recommend process improvements
+- Recommend process improvements based on data insights
 
 ## Deliverables
 - Business Requirements Document (BRD)
-- Process Flow Diagrams (before/after)
-- Power BI Dashboard
-- SQL Queries for analysis
-- Summary of findings
+- As-Is and To-Be process flow diagrams
+- SQL queries used for data analysis
+- Power BI dashboard visuals
+- Summary of findings and recommendations
