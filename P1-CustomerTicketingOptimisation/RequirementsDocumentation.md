@@ -24,6 +24,14 @@ The support team currently utilises a manual ticketing system, resulting in dela
 - System replacement
 
 ## Stakeholders
+Please refer to [Stakeholder Analysis](StakeholderAnalysis.md)
+- Support agents (Users)
+- Support team manager (Product/Service owner)
+- IT system administrator (Technical Implementer)
+- Customers (End user)
+- Business Analyst (BA)
+
+## Functional Requirements
 | ID  | Requirement                                                     | Priority    | Notes                                                     |
 |-----|-----------------                                                |-------------|--------|
 | FR1 | System should automatically categorise common ticket types                | Must Have  | for example, password resets, how-to                      |
