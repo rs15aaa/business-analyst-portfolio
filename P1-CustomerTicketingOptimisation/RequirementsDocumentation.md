@@ -1,7 +1,9 @@
 # Business Requirements Documents (BRD)
 
 **Project:** Customer Ticketing System Optimisation
+
 **Business Analyst:** Ragganpreet Singh
+
 **Date:**
 
 ## Purpose
@@ -51,7 +53,7 @@ Please refer to [Stakeholder Analysis](StakeholderAnalysis.md)
 | NFR5 | Solution should be accessible via standard browsers | Should have | Supports remote working |
 
 ## MoSCoW Prioritisation
-- **Must have:** FR1,FR2,FR3,FR4, NRF1, NFR3, NFR4
+- **Must have:** FR1,FR2,FR3,FR4, NFR1, NFR3, NFR4
 - **Should have:** FR5, NFR2
 - **Could have:** Future automation of ticket routing based on AI integrations
 - **Won't have:** Hardware upgrade, changes to external customer system
