@@ -1,0 +1,101 @@
+TicketID,SubmittedDate,ResolvedDate,Category,Priority,SLA_Breached,ResolutionTimeHrs,Channel,Agent,CustomerSatisfaction
+TCK-1000,2025-01-21,2025-01-21,Technical Error,High,No,1,Email,Aisha Khan,1
+TCK-1001,2025-01-22,2025-01-27,Login Issue,Low,Yes,129,Portal,John Smith,1
+TCK-1002,2025-01-03,2025-01-04,Login Issue,Low,No,28,Email,David Brown,2
+TCK-1003,2025-01-15,2025-01-19,Login Issue,High,Yes,101,Phone,David Brown,3
+TCK-1004,2025-01-09,2025-01-10,Technical Error,High,No,28,Email,David Brown,1
+TCK-1005,2025-01-12,2025-01-14,Technical Error,High,Yes,58,Phone,David Brown,5
+TCK-1006,2025-01-04,2025-01-07,Technical Error,Low,No,74,Phone,Maria Lee,5
+TCK-1007,2025-01-07,2025-01-12,Login Issue,Low,Yes,122,Email,Maria Lee,1
+TCK-1008,2025-01-28,2025-01-29,General Inquiry,Medium,No,26,Portal,Maria Lee,2
+TCK-1009,2025-01-12,2025-01-14,Technical Error,Low,No,52,Phone,John Smith,5
+TCK-1010,2025-01-21,2025-01-22,Billing,High,No,33,Portal,David Brown,3
+TCK-1011,2025-01-30,2025-02-04,Billing,Low,Yes,132,Portal,John Smith,2
+TCK-1012,2025-01-27,2025-01-27,General Inquiry,Medium,No,6,Email,Aisha Khan,5
+TCK-1013,2025-01-29,2025-02-03,Billing,Low,Yes,126,Portal,David Brown,4
+TCK-1014,2025-01-05,2025-01-07,Billing,Low,No,51,Phone,Maria Lee,5
+TCK-1015,2025-01-14,2025-01-18,Technical Error,High,Yes,103,Email,David Brown,1
+TCK-1016,2025-01-25,2025-01-25,Billing,Low,No,2,Email,David Brown,5
+TCK-1017,2025-01-03,2025-01-06,General Inquiry,Low,No,79,Portal,John Smith,1
+TCK-1018,2025-01-22,2025-01-26,Technical Error,High,Yes,101,Portal,David Brown,2
+TCK-1019,2025-01-15,2025-01-15,Technical Error,Low,No,12,Email,John Smith,3
+TCK-1020,2025-01-27,2025-02-01,Billing,High,Yes,129,Portal,Aisha Khan,5
+TCK-1021,2025-01-31,2025-02-04,Technical Error,Medium,Yes,97,Email,John Smith,3
+TCK-1022,2025-01-29,2025-01-31,Login Issue,High,Yes,52,Phone,John Smith,1
+TCK-1023,2025-01-24,2025-01-27,Billing,High,Yes,74,Phone,David Brown,5
+TCK-1024,2025-01-06,2025-01-08,General Inquiry,High,Yes,57,Phone,Aisha Khan,3
+TCK-1025,2025-01-13,2025-01-18,Technical Error,Medium,Yes,131,Phone,David Brown,1
+TCK-1026,2025-01-08,2025-01-09,Technical Error,High,No,26,Phone,Aisha Khan,5
+TCK-1027,2025-01-08,2025-01-08,Login Issue,High,No,2,Email,John Smith,3
+TCK-1028,2025-01-03,2025-01-07,Technical Error,Low,No,100,Portal,Aisha Khan,5
+TCK-1029,2025-01-05,2025-01-10,General Inquiry,High,Yes,130,Portal,David Brown,2
+TCK-1030,2025-01-04,2025-01-04,General Inquiry,Medium,No,11,Portal,David Brown,4
+TCK-1031,2025-01-28,2025-02-02,Login Issue,High,Yes,121,Portal,Maria Lee,1
+TCK-1032,2025-01-08,2025-01-09,General Inquiry,High,No,28,Portal,Aisha Khan,3
+TCK-1033,2025-01-15,2025-01-16,General Inquiry,Low,No,26,Email,John Smith,5
+TCK-1034,2025-01-27,2025-01-27,Billing,High,No,2,Portal,David Brown,4
+TCK-1035,2025-01-07,2025-01-10,Billing,Medium,Yes,73,Email,David Brown,3
+TCK-1036,2025-01-30,2025-02-02,General Inquiry,Low,No,77,Phone,David Brown,2
+TCK-1037,2025-01-07,2025-01-09,Login Issue,Low,No,52,Phone,John Smith,3
+TCK-1038,2025-01-02,2025-01-02,General Inquiry,Low,No,10,Phone,Aisha Khan,1
+TCK-1039,2025-01-31,2025-02-04,Billing,High,Yes,98,Phone,John Smith,2
+TCK-1040,2025-01-13,2025-01-13,Billing,Low,No,10,Phone,John Smith,5
+TCK-1041,2025-01-03,2025-01-06,Technical Error,Medium,Yes,83,Email,Maria Lee,2
+TCK-1042,2025-01-09,2025-01-12,Technical Error,Medium,Yes,75,Portal,John Smith,1
+TCK-1043,2025-01-15,2025-01-19,Login Issue,High,Yes,106,Phone,Aisha Khan,5
+TCK-1044,2025-01-09,2025-01-10,Login Issue,High,No,30,Portal,Maria Lee,2
+TCK-1045,2025-01-15,2025-01-19,Technical Error,Low,No,108,Phone,John Smith,5
+TCK-1046,2025-01-10,2025-01-15,Billing,Medium,Yes,122,Email,John Smith,5
+TCK-1047,2025-01-05,2025-01-07,Billing,Low,No,53,Portal,Aisha Khan,3
+TCK-1048,2025-01-17,2025-01-20,Login Issue,High,Yes,77,Phone,David Brown,3
+TCK-1049,2025-01-02,2025-01-02,Billing,Low,No,6,Portal,Aisha Khan,4
+TCK-1050,2025-01-18,2025-01-23,Login Issue,High,Yes,127,Email,Aisha Khan,5
+TCK-1051,2025-01-02,2025-01-04,Billing,Medium,No,58,Email,John Smith,3
+TCK-1052,2025-01-12,2025-01-12,Billing,Low,No,6,Email,John Smith,3
+TCK-1053,2025-01-25,2025-01-29,Billing,High,Yes,103,Email,Aisha Khan,4
+TCK-1054,2025-01-01,2025-01-02,Technical Error,Medium,No,36,Phone,Aisha Khan,3
+TCK-1055,2025-01-06,2025-01-11,General Inquiry,High,Yes,122,Portal,Aisha Khan,2
+TCK-1056,2025-01-27,2025-01-30,Technical Error,High,Yes,78,Email,John Smith,2
+TCK-1057,2025-01-13,2025-01-15,Login Issue,Medium,No,53,Portal,David Brown,5
+TCK-1058,2025-01-11,2025-01-11,Technical Error,High,No,2,Phone,Maria Lee,1
+TCK-1059,2025-01-04,2025-01-08,Technical Error,Low,No,103,Portal,David Brown,5
+TCK-1060,2025-01-17,2025-01-17,Billing,Medium,No,7,Email,David Brown,1
+TCK-1061,2025-01-17,2025-01-21,Billing,Medium,Yes,107,Portal,John Smith,3
+TCK-1062,2025-01-20,2025-01-22,Login Issue,Low,No,59,Portal,Maria Lee,4
+TCK-1063,2025-01-11,2025-01-14,Technical Error,Low,No,84,Email,Aisha Khan,4
+TCK-1064,2025-01-22,2025-01-25,Billing,Low,No,83,Phone,Maria Lee,4
+TCK-1065,2025-01-18,2025-01-18,Technical Error,High,No,5,Portal,Maria Lee,4
+TCK-1066,2025-01-15,2025-01-18,Billing,Low,No,83,Portal,Aisha Khan,1
+TCK-1067,2025-01-10,2025-01-14,Technical Error,High,Yes,107,Email,Maria Lee,2
+TCK-1068,2025-01-26,2025-01-27,Login Issue,High,No,27,Email,David Brown,5
+TCK-1069,2025-01-28,2025-01-28,General Inquiry,Low,No,8,Phone,Aisha Khan,4
+TCK-1070,2025-01-16,2025-01-19,Billing,Low,No,76,Phone,John Smith,1
+TCK-1071,2025-01-25,2025-01-28,Billing,Low,No,76,Phone,David Brown,1
+TCK-1072,2025-01-18,2025-01-19,General Inquiry,High,No,26,Portal,Maria Lee,4
+TCK-1073,2025-01-20,2025-01-25,General Inquiry,Low,Yes,129,Portal,Aisha Khan,4
+TCK-1074,2025-01-15,2025-01-17,Technical Error,Low,No,52,Portal,Aisha Khan,3
+TCK-1075,2025-01-15,2025-01-15,Technical Error,High,No,12,Portal,Maria Lee,3
+TCK-1076,2025-01-29,2025-02-02,Billing,High,Yes,98,Email,David Brown,2
+TCK-1077,2025-01-23,2025-01-24,General Inquiry,Medium,No,26,Portal,David Brown,4
+TCK-1078,2025-01-02,2025-01-03,General Inquiry,Low,No,31,Phone,John Smith,5
+TCK-1079,2025-01-13,2025-01-16,Technical Error,Medium,Yes,73,Portal,David Brown,5
+TCK-1080,2025-01-24,2025-01-29,Billing,Medium,Yes,129,Email,Maria Lee,4
+TCK-1081,2025-01-16,2025-01-16,Technical Error,Low,No,7,Phone,David Brown,2
+TCK-1082,2025-01-27,2025-01-30,Login Issue,Medium,Yes,75,Phone,John Smith,1
+TCK-1083,2025-01-21,2025-01-24,General Inquiry,High,Yes,75,Email,Maria Lee,4
+TCK-1084,2025-01-11,2025-01-12,Technical Error,Medium,No,32,Portal,Maria Lee,4
+TCK-1085,2025-01-09,2025-01-09,Login Issue,Low,No,8,Phone,John Smith,3
+TCK-1086,2025-01-08,2025-01-13,Login Issue,High,Yes,122,Email,Aisha Khan,1
+TCK-1087,2025-01-20,2025-01-21,Billing,Medium,No,28,Phone,John Smith,5
+TCK-1088,2025-01-31,2025-02-01,Technical Error,Medium,No,32,Email,John Smith,2
+TCK-1089,2025-01-31,2025-02-02,Login Issue,Medium,No,50,Phone,David Brown,4
+TCK-1090,2025-01-31,2025-02-05,Login Issue,Low,Yes,124,Phone,Aisha Khan,1
+TCK-1091,2025-01-23,2025-01-25,Login Issue,Low,No,59,Email,Maria Lee,5
+TCK-1092,2025-01-14,2025-01-19,Login Issue,Low,Yes,126,Phone,Maria Lee,1
+TCK-1093,2025-01-28,2025-01-31,Login Issue,Medium,Yes,80,Portal,David Brown,2
+TCK-1094,2025-01-14,2025-01-15,Technical Error,Low,No,36,Phone,David Brown,4
+TCK-1095,2025-01-14,2025-01-19,Technical Error,Medium,Yes,130,Email,John Smith,3
+TCK-1096,2025-01-29,2025-02-01,General Inquiry,Low,No,76,Phone,David Brown,3
+TCK-1097,2025-01-01,2025-01-04,Billing,Medium,Yes,78,Email,Maria Lee,3
+TCK-1098,2025-01-11,2025-01-13,Technical Error,Low,No,58,Email,Aisha Khan,1
+TCK-1099,2025-01-08,2025-01-13,General Inquiry,Low,Yes,127,Email,David Brown,4
